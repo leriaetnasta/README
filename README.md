@@ -3,7 +3,7 @@
 
 # Hi👋🏽 , I'm Loubna 
 
-[<img align="right" src="https://user-images.githubusercontent.com/61352259/157984130-ab483bd2-8dc8-4dbf-95fb-e49e35e09290.gif" alt="Coder GIF" height="280">][myprofile]
+[<a href="https://storyset.com/web">Web illustrations by Storyset</a>][myprofile]
 
 ### I'm a Computer science engineering Student 💻☁️
 
