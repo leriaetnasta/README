@@ -53,3 +53,8 @@
              <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> </p>
 
 
+[myprofile]: https://github.com/leriaetnasta
+[linkedin]: https://www.linkedin.com/in/loubna-talha-1695a0233/
+[githubfollowers]: https://github.com/leriaetnasta?tab=followers
+[facebook]: https://web.facebook.com/loubna.talha.374/
+[instagram]: https://www.instagram.com/talha_loubna_/
