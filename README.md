@@ -3,7 +3,7 @@
 
 # Hi👋🏽 , I'm Loubna 
 
-[<a href="https://storyset.com/web">Web illustrations by Storyset</a>][myprofile]
+[<img align="right" src="https://storyset.com/illustration/javascript-frameworks/amico" alt="Coder GIF" height="280">][myprofile]
 
 ### I'm a Computer science engineering Student 💻☁️
 
