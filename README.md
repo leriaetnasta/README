@@ -1,9 +1,8 @@
 [<img align="right" src="https://visitor-badge.glitch.me/badge?page_id=leriaetnasta.loubnatalha" />][myprofile]
 [<img align="right" src="https://img.shields.io/github/followers/leriaetnasta?label=Followers&style=social" alt="GitHub Badge" />][githubfollowers]
 
-# Hi👋🏽 , I'm Loubna 
-<a href="https://storyset.com/web"></a>
-[<a href="https://storyset.com/web"></a>][myprofile]
+# Hi👋 , I'm Loubna 
+[<img align="right" src="https://user-images.githubusercontent.com/61632665/166846664-5d845dee-464d-4d2d-baf5-3ca69084f128.gif" alt="Coder girl GIF" height="300">][myprofile]
 
 ### I'm a Computer science engineering Student 💻☁️
 
