@@ -33,3 +33,7 @@
 [githubfollowers]: https://github.com/leriaetnasta?tab=followers
 [facebook]: https://web.facebook.com/loubna.talha.374/
 [instagram]: https://www.instagram.com/talha_loubna_/
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=leriaetnasta&show_icons=true&locale=en&layout=compact" alt="loubnatalha" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=leriaetnasta&show_icons=true&locale=en" alt="loubnatalha" /></p>
