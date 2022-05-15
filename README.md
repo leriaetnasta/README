@@ -1,5 +1,5 @@
 [<img align="right"  src="https://visitor-badge.glitch.me/badge?page_id=leriaetnasta.leriaetnasta" />][myprofile]
-[<img align="right"  src="https://img.shields.io/github/followers/leriaetnasta?label=Followers&style=social" alt="GitHub Badge" />][githubfollowers]
+[<img align="right" src="https://img.shields.io/github/followers/leriaetnasta?label=Followers&style=social" alt="GitHub Badge" />][githubfollowers]
 
 
 
