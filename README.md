@@ -49,4 +49,5 @@
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=leriaetnasta&langs_count=5&theme=tokyonight)]()
 
+<h1 align="center"> [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=leriaetnasta&theme=city-lights)](https://git.io/streak-stats) </h1>
 
