@@ -13,7 +13,9 @@
 
 ### I love to code and a really silly joke here's one for you
 
-<img src="https://readme-jokes.vercel.app/api?hideBorder" alt="Jokes Card" /> 
+<img src="https://readme-jokes.vercel.app/api?hideBorder" alt="Jokes Card" />
+
+### [CHECK MY STATS](https://geet-resume.herokuapp.com/users/leriaetnasta).
 
 - 📫 How to reach me **loutal98@gmail.com**
 
@@ -47,11 +49,11 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=leriaetnasta&theme=radical&show_icons=true&locale=en" alt="loubnatalha" 
 /></p>
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=leriaetnasta&langs_count=5&theme=tokyonight)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=leriaetnasta&langs_count=10&theme=tokyonight)]()
 
 <h1 align="center"> 
   
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=leriaetnasta&theme=city-lights)](https://git.io/streak-stats) 
 </h1>
-![](https://raw.githubusercontent.com/leriaetnasta/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/leriaetnasta/github-stats/master/generated/overview.svg#gh-light-mode-only)
+
+
