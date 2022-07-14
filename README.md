@@ -11,7 +11,7 @@
 
 ### I'm a Computer science engineering Student 💻☁️
 
-### I love to write code and silly jokes here's one for you
+### I love to code and a really silly joke here's one for you
 
 <img src="https://readme-jokes.vercel.app/api?hideBorder" alt="Jokes Card" /> 
 
