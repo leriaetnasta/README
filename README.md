@@ -47,10 +47,12 @@
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leriaetnasta&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leriaetnasta&count_private=true&show_icons=true&theme=radical)]
 
 
-<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?leriaetnasta" frameborder="0"></iframe>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leriaetnasta&langs_count=8&layout=compact)]
+
+
 
 <h1 align="center"> 
   
