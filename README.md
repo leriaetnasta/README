@@ -3,6 +3,7 @@
 
 
 
+
 # Hi :wave: , I'm Loubna 
 [<img align="right" src="https://user-images.githubusercontent.com/61632665/166846664-5d845dee-464d-4d2d-baf5-3ca69084f128.gif" alt="Coder girl GIF" height="300">][myprofile]
 
@@ -42,3 +43,6 @@
 /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leriaetnasta&layout=compact)" alt="loubnatalha" /></p>
+<p><img align="center" src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leriaetnasta&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+" /></p>
+
