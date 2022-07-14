@@ -9,6 +9,9 @@
 
 ### I'm a Computer science engineering Student 💻☁️
 
+### I love to code and silly jokes here's one for you
+
+<img src="https://readme-jokes.vercel.app/api?hideBorder" alt="Jokes Card" /> 
 
 - 📫 How to reach me **loutal98@gmail.com**
 
@@ -41,8 +44,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=leriaetnasta&theme=radical&show_icons=true&locale=en" alt="loubnatalha" 
 /></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leriaetnasta&layout=compact)" alt="loubnatalha" /></p>
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=leriaetnasta&langs_count=5&theme=tokyonight)]()
 
