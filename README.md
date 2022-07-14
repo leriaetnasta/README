@@ -53,4 +53,7 @@
   
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=leriaetnasta&theme=city-lights)](https://git.io/streak-stats) 
 </h1>
-
+<a>
+<img src="https://github.com/leriaetnasta/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
+<img src="https://github.com/leriaetnasta/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
+</a>
