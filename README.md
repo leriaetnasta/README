@@ -15,7 +15,7 @@
 
 ### [CHECK MY STATS](https://geet-resume.herokuapp.com/users/leriaetnasta).
 
-- 📫 How to reach me **loutal98@gmail.com**
+- 📫 How to reach me **talha.loubna@yahoo.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -45,7 +45,7 @@
 
 
 
-<a>[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leriaetnasta&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)</a><a>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leriaetnasta&langs_count=8&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)</a>
+
 
 <h1 align="center"> 
   
