@@ -29,16 +29,6 @@
 
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/loubna-talha-1695a0233/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lou tal" height="30" width="40" /></a>
-<a href="https://web.facebook.com/loubna.talha.374/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="lou tal" height="30" width="40" /></a>
-<a href="https://www.instagram.com/talha_loubna_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lou tal" height="30" width="40" /></a>
-  <a href="https://twitter.com/LlouTal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lou tal" height="30" width="40" /></a>
-<a href="https://dev.to/leriaetnasta" target="blank"><img align="center" src="https://camo.githubusercontent.com/6cc90061976bcd4d1a61a6c76b818538b5a65754f7b7b8068fe0fa49a09def8f/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6465765f746f2e737667" alt="lou tal" height="30" width="40" /></a>
-</p>
-
-
 
 
   <summary><h2> Languages and Tools </h2></summary>
