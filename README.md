@@ -14,12 +14,12 @@
 
 <p align="center">
     <a href="https://twitter.com/LlouTal" target="_blank">   
-    <img src="https://img.shields.io/badge/@__gurii__-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" width="105" height="22" alt="twitter">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" width="105" height="22" alt="twitter">
     <a href="https://www.linkedin.com/in/loubna-talha" target="_blank">
-    <img src="https://img.shields.io/badge/Gurjeet%20Singh%20Virdee-1976D2?style=for-the-badge&logo=linkedin&logoColor=white" width="150" height="22" alt="linkedin">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" width="150" height="22" alt="linkedin">
     <a href="https://www.buymeacoffee.com/leriaetnasta" target="_blank">
     <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" width="80" height="22" alt="discord">
-    <a href = "mailto: talha.loubna@yahoo.com" target="_blank"><img src="https://img.shields.io/badge/Say, HII-D74E43?style=for-the-badge&logo=gmail&logoColor=white" width="100" height="22"></a>
+    <a href = "mailto: talha.loubna@yahoo.com" target="_blank"><img src="https://img.shields.io/badge/Yahoo!-6001D2?style=for-the-badge&logo=Yahoo!&logoColor=white" width="100" height="22"></a>
  </p>
       
       
