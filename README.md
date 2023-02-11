@@ -1,6 +1,8 @@
 [<img align="right" src="https://visitor-badge.glitch.me/badge?page_id=leriaetnasta.leriaetnasta" />][myprofile]
 [<img align="right" src="https://img.shields.io/github/followers/leriaetnasta?label=Followers&style=social" alt="GitHub Badge" />][githubfollowers]
 
+![Purple Blue Pink Cute Anime Gaming Livestream Twitch Banner-2](https://user-images.githubusercontent.com/61632665/218269392-04c5ad44-e204-4229-84c5-1b5266eb0b8a.png)
+
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70193&width=435&lines=Hi+I+am+Loubna+Talha;I+am+a+software+engineering+student;Dm+me+to+collaborate+on+projects)](https://git.io/typing-svg)
