@@ -1,7 +1,6 @@
 [<img align="right" src="https://visitor-badge.glitch.me/badge?page_id=leriaetnasta.leriaetnasta" />][myprofile]
 [<img align="right" src="https://img.shields.io/github/followers/leriaetnasta?label=Followers&style=social" alt="GitHub Badge" />][githubfollowers]
 
-![Purple Blue Pink Cute Anime Gaming Livestream Twitch Banner-2](https://user-images.githubusercontent.com/61632665/218269392-04c5ad44-e204-4229-84c5-1b5266eb0b8a.png)
 
 
 
