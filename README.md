@@ -14,7 +14,6 @@
 - 📫 How to reach me 
 
 <p align="center">
-    <a href="https://twitter.com/LlouTal" target="_blank">   
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" width="105" height="22" alt="twitter">
     <a href="https://www.linkedin.com/in/loubna-talha" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" width="150" height="22" alt="linkedin">
