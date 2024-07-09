@@ -1,5 +1,4 @@
 [<img align="right" src="https://visitor-badge.glitch.me/badge?page_id=leriaetnasta.visitor-badge" />][myprofile]
-![visitors](https://visitor-badge.glitch.me/badge?page_id=leriaetnasta&left_color=green&right_color=red)
 [<img align="right" src="https://img.shields.io/github/followers/leriaetnasta?label=Followers&style=social" alt="GitHub Badge" />][githubfollowers]
 
 
