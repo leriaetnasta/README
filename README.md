@@ -1,5 +1,4 @@
-[<img align="right" src="https://visitor-badge.glitch.me/badge?page_id=leriaetnasta.visitor-badge" />][myprofile]
-![myprofile since 2020/06/14](https://visitor-badge-deno.deno.dev/leriaetnasta.leriaetnasta.svg)
+![views since 2020/06/14](https://visitor-badge-deno.deno.dev/leriaetnasta.leriaetnasta.svg)
 [<img align="right" src="https://img.shields.io/github/followers/leriaetnasta?label=Followers&style=social" alt="GitHub Badge" />][githubfollowers]
 
 
